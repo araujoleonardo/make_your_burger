@@ -86,7 +86,7 @@
         "Bacon",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 1
     },
     {
@@ -97,32 +97,32 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 2
     },
     {
-      "nome": "Maria",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "Clodovil",
+      "nome": "José Aldo",
       "carne": "Veggie burger",
-      "pao": "Italiano Branco",
+      "pao": "Parmesão e Orégano",
       "opcionais": [
         "Cebola roxa",
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
-      "id": 4
+      "status": "Em produção",
+      "id": 6
+    },
+    {
+      "nome": "Zacarias",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Em produção",
+      "id": 7
     }
   ]
 }
